@@ -1,1 +1,1 @@
-this repository will act as my practice for DSA
+This repository will act as my practice for DSA
